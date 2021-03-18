@@ -1,0 +1,20 @@
+{
+  "reminders": [
+    {
+      "name": "testi1",
+      "timestamp": "2021-03-06T17:27",
+      "id": 1
+    },
+    {
+      "name": "helios",
+      "timestamp": "2021-03-20T17:32",
+      "id": 2
+    }
+  ],
+  "newReminder": [
+    {
+      "newname": "",
+      "newtime": ""
+    }
+  ]
+}
